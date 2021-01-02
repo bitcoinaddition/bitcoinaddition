@@ -154,10 +154,10 @@
 								<property name="styleSheet">
 									<string notr="true">
 										height: 45px;
-										width: 235px;
+										width: 470px;
 										color: #66F;
 										font-family: "Montserrat Medium";
-										font-size: 37px;
+										font-size: 25px;
 										letter-spacing: 4.81px;
 										line-height: 45px;
 										text-align: right;
