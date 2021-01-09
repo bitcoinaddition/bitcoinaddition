@@ -13,9 +13,9 @@ BitcoinAddition Core integration/staging repository
 • Prefix: BTCA adresses start with the capital letter "S"  
 • Ports: 45328 (p2p) / 45329 (rpc)
 
-• Explorer http://btcaexplorer.com
+• Explorer http://explorer.btcadd.io
 
-• Website [btcacoin.com](http://www.btcacoin.com)
+• Website [btcacoin.com](http://www.btcadd.io)
 
 ### Rewards Breakdown
 <table border=0 cellpadding=0 cellspacing=0 width=701 class=xl6553517252
