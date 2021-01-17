@@ -7582,7 +7582,7 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="+83"/>
-        <source>The masternode network is BTCA&apos;s second layer network on top of the blockchain that enables our DAO to provide decentralized governance and a treasury.</source>
+        <source>The masternode network is BTCA&apos;s second layer network on top of the blockchain that enables our DAO to provide decentralized governance and on the top of treasury.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
