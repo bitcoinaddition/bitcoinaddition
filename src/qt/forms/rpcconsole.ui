@@ -1601,7 +1601,7 @@
        <item row="13" column="3">
         <widget class="QLabel" name="label_repair_resync">
          <property name="text">
-          <string>Deletes all local blockchain folders so the wallet synchronizes from scratch.</string>
+          <string>Delete all local blockchain folders so the wallet synchronizes from scratch.</string>
          </property>
          <property name="wordWrap">
           <bool>true</bool>

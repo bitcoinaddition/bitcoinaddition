@@ -60,7 +60,7 @@ class Env {
                                      RandomAccessFile** result) = 0;
 
   // Create an object that writes to a new file with the specified
-  // name.  Deletes any existing file with the same name and creates a
+  // name.  Delete any existing file with the same name and creates a
   // new file.  On success, stores a pointer to the new file in
   // *result and returns OK.  On failure stores NULL in *result and
   // returns non-OK.

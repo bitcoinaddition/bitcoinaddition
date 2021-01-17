@@ -45,7 +45,7 @@ SettingsWalletRepairWidget::SettingsWalletRepairWidget(PIVXGUI* _window, QWidget
     ui->labelMessageRebuild->setText(tr("Rebuild blockchain index from current blk000???.dat files."));
     ui->labelMessageRebuild->setProperty("cssClass", "text-main-settings");
 
-    ui->labelMessageDelete->setText(tr("Deletes all local blockchain folders so the wallet synchronizes from scratch."));
+    ui->labelMessageDelete->setText(tr("Delete all local blockchain folders so the wallet synchronizes from scratch."));
     ui->labelMessageDelete->setProperty("cssClass", "text-main-settings");
 
     // Buttons

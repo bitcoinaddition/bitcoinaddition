@@ -3867,7 +3867,7 @@ transaction history, making transactions untraceable </source>
     </message>
     <message>
         <location line="+7"/>
-        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>
+        <source>Delete all local blockchain folders so the wallet synchronizes from scratch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6317,7 +6317,7 @@ Check one or both of the check boxes to send on stake and/or masternode rewards<
     </message>
     <message>
         <location line="+3"/>
-        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>
+        <source>Delete all local blockchain folders so the wallet synchronizes from scratch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

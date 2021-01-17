@@ -19,13 +19,13 @@
     "args": ["-", "delin=1"],
     "input": "tx394b54bb.hex",
     "output_cmp": "tt-delin1-out.hex",
-    "description": "Deletes a single input from a transaction"
+    "description": "Delete a single input from a transaction"
   },
   { "exec": "./pivx-tx",
     "args": ["-json", "-", "delin=1"],
     "input": "tx394b54bb.hex",
     "output_cmp": "tt-delin1-out.json",
-    "description": "Deletes a single input from a transaction (output in json)"
+    "description": "Delete a single input from a transaction (output in json)"
   },
   { "exec": "./pivx-tx",
     "args": ["-", "delin=31"],
@@ -38,13 +38,13 @@
     "args": ["-", "delout=1"],
     "input": "tx394b54bb.hex",
     "output_cmp": "tt-delout1-out.hex",
-    "description": "Deletes a single output from a transaction"
+    "description": "Delete a single output from a transaction"
   },
   { "exec": "./pivx-tx",
     "args": ["-json", "-", "delout=1"],
     "input": "tx394b54bb.hex",
     "output_cmp": "tt-delout1-out.json",
-    "description": "Deletes a single output from a transaction (output in json)"
+    "description": "Delete a single output from a transaction (output in json)"
   },
   { "exec": "./pivx-tx",
     "args": ["-", "delout=2"],
