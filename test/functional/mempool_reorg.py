@@ -21,7 +21,7 @@ class MempoolCoinbaseTest(PivxTestFramework):
     alert_filename = None  # Set by setup_network
 
     def run_test(self):
-        # Start with a 200 block chain
+        # Start with a 200 blockchain
         assert_equal(self.nodes[0].getblockcount(), 200)
 
         # Mine four blocks. After this, nodes[0] blocks

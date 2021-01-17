@@ -65,7 +65,7 @@ zPiv transactions require more computation and disk space than typical PIVX tran
 
 **RPC** - Conversion from PIV to zPIV can be done using the `mintzerocoin` command.
 
-**Automint** - The PIVX wallet is set to convert 10% of the wallets available PIV to zPIV automatically. This can be adjusted in the GUI within the Options dialog, which allows the preferred % to be adjusted as well as the ability to set the preferred zPIV denomination that will be minted. Automint is set to be triggered when additional blocks are added to the block chain and is programmed *not* to convert your coins all at once.
+**Automint** - The PIVX wallet is set to convert 10% of the wallets available PIV to zPIV automatically. This can be adjusted in the GUI within the Options dialog, which allows the preferred % to be adjusted as well as the ability to set the preferred zPIV denomination that will be minted. Automint is set to be triggered when additional blocks are added to the blockchain and is programmed *not* to convert your coins all at once.
 
 Automint can be disabled by adding `enablezeromint=0` to the wallet configuration file. The preferred mint % and denomination can also be set by the configuration file using `zeromintpercentage=<n>` and `preferredDenom=<n>`.
 

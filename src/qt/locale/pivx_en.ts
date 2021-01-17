@@ -1912,7 +1912,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+18"/>
-        <source>BTCA will download and store a copy of the BTCA block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>BTCA will download and store a copy of the BTCA blockchain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3827,7 +3827,7 @@ transaction history, making transactions untraceable </source>
     </message>
     <message>
         <location line="+14"/>
-        <source>Rescan the block chain for missing wallet transactions.</source>
+        <source>Rescan the blockchain for missing wallet transactions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3857,7 +3857,7 @@ transaction history, making transactions untraceable </source>
     </message>
     <message>
         <location line="+44"/>
-        <source>Rebuild block chain index from current blk000??.dat files.</source>
+        <source>Rebuild blockchain index from current blk000??.dat files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7577,7 +7577,7 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="+93"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As our manifesto says: Privacy is a non-negotiable basic human right; it grants users the freedom to share their data whenever and with whomever they want - BTCA believes in self sovereignty.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As our manifesto says: Privacy is a non-negotiable basic human right; it grants users the freedom to share their data whenever and with whomever they want - BTCA believes in self-sovereignty.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8805,8 +8805,8 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>
-        <translation type="unfinished">Only accept block chain matching built-in checkpoints (default: %u)</translation>
+        <source>Only accept blockchain matching built-in checkpoints (default: %u)</source>
+        <translation type="unfinished">Only accept blockchain matching built-in checkpoints (default: %u)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -8890,8 +8890,8 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation type="unfinished">Rebuild block chain index from current blk000??.dat files</translation>
+        <source>Rebuild blockchain index from current blk000??.dat files</source>
+        <translation type="unfinished">Rebuild blockchain index from current blk000??.dat files</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -8915,8 +8915,8 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Rescan the block chain for missing wallet transactions</source>
-        <translation type="unfinished">Rescan the block chain for missing wallet transactions</translation>
+        <source>Rescan the blockchain for missing wallet transactions</source>
+        <translation type="unfinished">Rescan the blockchain for missing wallet transactions</translation>
     </message>
     <message>
         <location line="+1"/>

@@ -2121,7 +2121,7 @@ UniValue listtransactions(const UniValue& params, bool fHelp)
             "                                         'receive' category of transactions.\n"
             "    \"bcconfirmations\": n,     (numeric) The number of blockchain confirmations for the transaction. Available for 'send'\n"
             "                                         'receive' category of transactions. Negative confirmations indicate the\n"
-            "                                         transation conflicts with the block chain\n"
+            "                                         transation conflicts with the blockchain\n"
             "    \"trusted\": xxx            (bool) Whether we consider the outputs of this unconfirmed transaction safe to spend.\n"
             "                                          and 'receive' category of transactions.\n"
             "    \"blockhash\": \"hashvalue\", (string) The block hash containing the transaction. Available for 'send' and 'receive'\n"

@@ -1775,7 +1775,7 @@ bool CWallet::Upgrade(std::string &error, const int &prevVersion)
 }
 
 /**
- * Scan the block chain (starting in pindexStart) for transactions
+ * Scan the blockchain (starting in pindexStart) for transactions
  * from or to us. If fUpdate is true, found transactions that already
  * exist in the wallet will be updated.
  * @returns -1 if process was cancelled or the number of tx added to the wallet.

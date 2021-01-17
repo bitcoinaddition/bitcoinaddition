@@ -150,7 +150,7 @@ UniValue getblockcount(const UniValue& params, bool fHelp)
     if (fHelp || params.size() != 0)
         throw std::runtime_error(
             "getblockcount\n"
-            "\nReturns the number of blocks in the longest block chain.\n"
+            "\nReturns the number of blocks in the longest blockchain.\n"
 
             "\nResult:\n"
             "n    (numeric) The current block count\n"
@@ -167,7 +167,7 @@ UniValue getbestblockhash(const UniValue& params, bool fHelp)
     if (fHelp || params.size() != 0)
         throw std::runtime_error(
             "getbestblockhash\n"
-            "\nReturns the hash of the best (tip) block in the longest block chain.\n"
+            "\nReturns the hash of the best (tip) block in the longest blockchain.\n"
 
             "\nResult\n"
             "\"hex\"      (string) the block hash hex encoded\n"
@@ -765,7 +765,7 @@ UniValue getblockchaininfo(const UniValue& params, bool fHelp)
     if (fHelp || params.size() != 0)
         throw std::runtime_error(
             "getblockchaininfo\n"
-            "Returns an object containing various state info regarding block chain processing.\n"
+            "Returns an object containing various state info regarding blockchain processing.\n"
 
             "\nResult:\n"
             "{\n"

@@ -217,7 +217,7 @@ std::string GetWarnings(std::string strFor);
 bool GetTransaction(const uint256& hash, CTransaction& tx, uint256& hashBlock, bool fAllowSlow = false, CBlockIndex* blockIndex = nullptr);
 /** Retrieve an output (from memory pool, or from disk, if possible) */
 bool GetOutput(const uint256& hash, unsigned int index, CValidationState& state, CTxOut& out);
-/** Find the best known block, and make it the tip of the block chain */
+/** Find the best known block, and make it the tip of the blockchain */
 
 // ***TODO***
 double ConvertBitsToDouble(unsigned int nBits);
