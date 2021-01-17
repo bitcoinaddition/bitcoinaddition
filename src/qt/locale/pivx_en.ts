@@ -7587,7 +7587,7 @@ BTCA Wallet</source>
     </message>
     <message>
         <location line="-103"/>
-        <source>How BTCA respects your privacy?</source>
+        <source>How does BTCA respect your privacy?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

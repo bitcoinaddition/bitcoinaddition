@@ -909,7 +909,7 @@ BTCA Wallet</string>
                    </size>
                   </property>
                   <property name="text">
-                   <string>How BTCA respects your privacy?</string>
+                   <string>How does BTCA respect your privacy?</string>
                   </property>
                  </widget>
                 </item>
