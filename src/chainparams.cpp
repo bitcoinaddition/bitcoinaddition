@@ -95,10 +95,10 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (    1, uint256("000003a457b9de44cec5a34bbde9022bbbc289b5da74ccca252bdc922d1f3e1e"));
+    (    1, uint256("00000e0e734473921d379172bffdfd66cb2a385d7d5ae49df357701657117deb"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-    1609412675, // * UNIX timestamp of last checkpoint block
+    1614959887, // * UNIX timestamp of last checkpoint block
     2,    // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000          // * estimated number of transactions per day after checkpoint
@@ -200,10 +200,10 @@ public:
          * The characters are rarely used upper ASCII, not valid as UTF-8, and produce
          * a large 4-byte int at any alignment.
          */
-        pchMessageStart[0] = 0xa3;
-        pchMessageStart[1] = 0xe8;
-        pchMessageStart[2] = 0x22;
-        pchMessageStart[3] = 0x01;
+        pchMessageStart[0] = 0xd3;
+        pchMessageStart[1] = 0x48;
+        pchMessageStart[2] = 0xc2;
+        pchMessageStart[3] = 0x91;
         nDefaultPort = 4715;
 
         vSeeds.push_back(CDNSSeedData("185.227.109.150", "185.227.109.150"));
